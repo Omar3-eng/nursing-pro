@@ -1,0 +1,18 @@
+{
+  "name": "nursing-pro-desktop",
+  "version": "1.0.0",
+  "description": "Nursing Pro Desktop Application",
+  "main": "public/electron.js",
+  "homepage": "./",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "axios": "^1.6.0",
+    "tailwindcss": "^3.3.0",
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.4"
+}
